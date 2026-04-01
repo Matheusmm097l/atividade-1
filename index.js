@@ -37,10 +37,26 @@ console.log ('minha divisão é: ', totaldivisão);
 
     //Operadores de Comparação
 
+//igualdade
+
 let number9 = 10
 let number10 = 10
 
 let igualdade = number9 == number10;
 console.log ('a igualdade é: ', igualdade);
 
+//diferença
 
+let string1 = 21
+let string2 = 2
+
+let diferença = string1 != string2;
+console.log ('a diferença é: ', diferença);
+
+//menor que
+
+let string3 = 5
+let string4 = 10
+
+let menor = string3 < string4;
+console.log ('menor que: ', menor);
