@@ -60,3 +60,19 @@ let string4 = 10
 
 let menor = string3 < string4;
 console.log ('menor que: ', menor);
+
+//maior que
+
+let string5 = 60
+let string6 = 50
+
+let maior = string5 > string6;
+console.log ('maior que: ', maior);
+
+//menor ou igual
+
+let string7 = 20
+let string8 = 21
+
+let IgualMenor = string7 <= string8;
+conole.log ('IgualMenor: ', IgualMenor);
